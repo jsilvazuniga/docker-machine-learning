@@ -31,4 +31,7 @@ docker run --name sentimental-prediction -d -p 5003:5000 img-flask-ml-senti
 ```
 ## Test application
 
-![Gráfico](result.jpg)
+![Gráfico-Request](request.jpg)
+
+
+![Gráfico-Request](response.jpg)
